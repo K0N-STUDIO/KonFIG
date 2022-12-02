@@ -1,0 +1,26 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(173, 210, 245);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+    background-color: #3C3C3C;
+}
+h2 {
+    font-weight: bold;
+    text-align: left;
+    font-size: 50px;
+    color: rgb(173, 210, 245);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    font-size: 30px;
+    color: #ffffff;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: green;
+    padding-left: 40px;
+    margin: 75px
+}
